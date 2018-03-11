@@ -1,0 +1,10 @@
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.FrmMain.resources
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\ashes\source\repos\SnakeGame\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
